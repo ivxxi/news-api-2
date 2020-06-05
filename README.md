@@ -31,11 +31,17 @@ As a user of the terminal application you will be able to:
 
 
 ## Getting started
-### Prerequisites
-* python3.6
-* virtual environment
-* pip
-* flask
+
+## Prerequiites
+    - Python 3.6 required
+
+## Set-up and Installation
+    - Clone the Repo
+    - Edit the start.sh file with your api key from the news.org website
+    - Install python 3.6
+    - Run chmod a+x start.py
+    - Run ./start.py
+
 
 ### Cloning
 * In your terminal:
